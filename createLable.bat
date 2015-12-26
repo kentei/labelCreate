@@ -1,0 +1,2 @@
+cscript createJSLabel.js
+pause
