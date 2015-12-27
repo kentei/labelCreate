@@ -1,0 +1,7 @@
+__Localizer.strings = {'testkey1' : 'jatest1',
+'testkey2' : 'jatest2',
+'testkey3' : 'jatest3',
+'testkey4' : 'jatest4',
+'testkey5' : 'jatest5',
+'testkey6' : 'jatest6',
+};
